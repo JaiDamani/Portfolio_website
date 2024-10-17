@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full-stack engineer with a strong focus on building scalable web applications and integrating Machine Learning into practical solutions. With over two years of industry experience, I have developed expertise in back-end technologies such as Spring Boot, Laravel, Django, MySQL, and MongoDB, alongside front-end tools like ReactJS, HTML5, and CSS. I have also worked on multiple Machine Learning projects, with some of my work being published in IEEE. My goal is to leverage this combined expertise in software engineering and machine learning to create innovative, data-driven solutions that drive business growth and deliver impactful results.`;
+export const HERO_CONTENT = `I am a passionate full-stack engineer with a strong focus on building scalable web applications and integrating Machine Learning into practical solutions. With over 2 years of industry experience, I have developed expertise in back-end technologies such as Spring Boot, Laravel, Django, MySQL, and MongoDB, alongside front-end tools like ReactJS, HTML5, and CSS. I have also worked on multiple Machine Learning projects, with some of my work being published in IEEE. My goal is to leverage this combined expertise in software engineering and machine learning to create innovative, data-driven solutions that drive business growth and deliver impactful results.`;
 
 export const ABOUT_TEXT = `Currently working as a Software Engineer at JP Morgan Chase, I have a strong passion for solving problems and crafting efficient web applications. With over 2 years of professional experience, my skillsets and flexibility allows me to adapt to any work culture and team and I aim to expand my collaboration, communication, and emerging technology competencies. Apart from coding, I'm an avid film buff/ cinephile, I also enjoy working out, exploring new technologies, and yeah, am always up for a game of table tennis :)`;
 
@@ -44,10 +44,10 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Php", "Laravel"],
   },
   {
-    title: "Task Management App",
+    title: "Employee Management App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "An application for managing list of employees, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
   },
   {
@@ -58,11 +58,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   {
-    title: "Blogging Platform",
+    title: "Blockchain Based Skill Verification Portal",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A completely decentralized skill verification platform using ReactJS, Ethereum APIs via Infura, and Solidity-based Smart Contracts to authenticate certifications and automate skillset validation.",
+    technologies: ["Infura", "Reactjs", "Solidity", "Smart Contracts", "Ethereum"],
   },
 ];
 
