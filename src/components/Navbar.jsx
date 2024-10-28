@@ -20,7 +20,7 @@ const Navbar = () => {
     <a href="mailto:damani.jai73@gmail.com">
         <FaEnvelope />
       </a>
-      <a href="https://drive.google.com/file/d/1LiQxgVmz4kmNlEC8yFbZApmVRaUXrBJF/view?usp=sharing" className="mx-2 w-40 h-10 flex items-center justify-center bg-neutral-800 text-white text-xl rounded-full">
+      <a href="https://drive.google.com/file/d/1tyh9RVFpEW7vrRJybsko8XC84kGVAzRU/view?usp=sharing" className="mx-2 w-40 h-10 flex items-center justify-center bg-neutral-800 text-white text-xl rounded-full">
         My Resume
     </a>
     </div>
